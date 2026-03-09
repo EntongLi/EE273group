@@ -1,0 +1,30 @@
+Rogelio,Hudson,398184923,21,BEng Electronic and Electrical Engineering
+John,Blogs,591750349,32,MSc Electronic and Electrical Engineering
+Arielle,Zhang,207742095,28,MEng Electrical and Mechanical Engineering
+Priya,Patel,304856712,20,BEng Computer Science
+Marcus,O'Brien,473920184,23,MSc Artificial Intelligence
+Sofia,Nakamura,629034857,22,BEng Mechanical Engineering
+Ethan,Kowalski,182736450,25,MEng Civil Engineering
+Amara,Diallo,756193028,19,BEng Chemical Engineering
+Liam,Bergstrom,843015967,27,MSc Data Science
+Yuna,Choi,531847206,21,BEng Aerospace Engineering
+Declan,Murphy,694728315,24,MSc Robotics and Autonomous Systems
+Fatima,Al-Hassan,317562849,22,MEng Biomedical Engineering
+Noah,Vasquez,428301756,26,BEng Software Engineering
+Chiara,Rossi,965843021,20,MSc Communications Engineering
+Tariq,Okafor,274158693,29,BEng Energy Engineering
+Ingrid,Sorensen,583029417,23,MEng Materials Science and Engineering
+Reuben,Ashworth,719284536,21,BEng Electronic and Electrical Engineering
+Mei,Lin,836450192,24,MSc Machine Learning
+Aleksei,Volkov,142693875,30,MSc Power Systems Engineering
+Zara,Thompson,659017384,22,BEng Computer and Information Engineering
+Dr. Helen,Carter,h.carter@university.ac.uk,Department of Electronic and Electrical Engineering
+Prof. James,Whitfield,j.whitfield@university.ac.uk,Department of Computer Science
+Dr. Aisha,Nwosu,a.nwosu@university.ac.uk,Department of Mechanical Engineering
+Prof. David,Liang,d.liang@university.ac.uk,Department of Artificial Intelligence and Data Science
+Dr. Fiona,MacAllister,f.macallister@university.ac.uk,Department of Civil and Structural Engineering
+Prof. Raj,Subramaniam,r.subramaniam@university.ac.uk,Department of Chemical Engineering
+Dr. Olga,Petersen,o.petersen@university.ac.uk,Department of Biomedical Engineering
+Prof. Marcus,Adeyemi,m.adeyemi@university.ac.uk,Department of Aerospace Engineering
+Dr. Claire,Bouchard,c.bouchard@university.ac.uk,Department of Robotics and Autonomous Systems
+Prof. Stefan,Brandt,s.brandt@university.ac.uk,Department of Energy and Power Systems
